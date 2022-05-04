@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mydata>
+<row>
+    <fld1>メインページ</fld1>
+    <row2>
+        <fld2>https://winofsql.jp/lightbox/</fld2>
+        <fld3>SQLの窓と銀プログラマ</fld3>
+        <fld4>_blank</fld4>
+    </row2>
+    <row2>
+        <fld2>https://logicalerror.seesaa.net/</fld2>
+        <fld3>logical　error</fld3>
+        <fld4>_blank</fld4>
+    </row2>
+    <row2>
+        <fld2>https://twitter.com/sworc</fld2>
+        <fld3>Twitter : sworc</fld3>
+        <fld4>_blank</fld4>
+    </row2>
+    <row2>
+        <fld2>https://github.com/winofsql?tab=repositories</fld2>
+        <fld3>GitHub</fld3>
+        <fld4>_blank</fld4>
+    </row2>
+    <row2>
+        <fld2>https://www.ac-illust.com/main/profile.php?id=Iq24yifd</fld2>
+        <fld3>イラストAC</fld3>
+        <fld4>_blank</fld4>
+    </row2>
+    <row2>
+        <fld2>http://lightbox.on.coocan.jp/html/fontImage.php</fld2>
+        <fld3>フリーフォントで簡単ロゴ作成</fld3>
+        <fld4>_blank</fld4>
+    </row2>
+    <row2>
+        <fld2>http://lightbox.on.coocan.jp/html/utf8tool.php</fld2>
+        <fld3>UTF8文字一覧</fld3>
+        <fld4>_blank</fld4>
+    </row2>
+</row>
+</mydata>
